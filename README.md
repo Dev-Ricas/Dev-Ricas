@@ -47,18 +47,24 @@
 ---
 <h4 align="center"> Onde me encontrar<h4>  
   <div align="center">
-    <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Em%20construção-%20Portifólio-blue" alt="Em construção - Portifólio">
+      <img src="https://img.shields.io/badge/Em%20breve-%20LinkedIn-blue" alt="Em breve - LinkedIn">
+    </a>
+<!--     <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a> -->
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Em%20breve-%20Portifólio-green" alt="Em breve - Portifólio">
     </a>
       <!--<a href="https://seu-site.com" target="_blank">
       <img src="https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge" alt="Portfólio"/>
     </a>
     -->
-    <a href="mailto:dev.ricardolucferreira@gmail.com">
+<!--     <a href="mailto:dev.ricardolucferreira@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a> -->
+    <a href="mailto:dev.ricardolucferreira@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-red" alt="GMAIL">
     </a>
 </div>
 
